@@ -1,9 +1,9 @@
-## Vem ser Víncer
+# Vem ser Víncer
+Desafio IMC
 
 ### Teste para desenvolvedor fullstack
-
-> Duração aproximada: 3 horas.
-> O teste consiste no desenvolvimento de uma calculadora IMC (Índice de Massa Corpórea).
+Duração aproximada: 3 horas.
+O teste consiste no desenvolvimento de uma calculadora IMC (Índice de Massa Corpórea).
 
 Siga as orientações e especificações abaixo e entregue o resultado dentro do prazo limite estipulado pelo RH.
 
@@ -17,11 +17,11 @@ Você vai precisar de um endpoint na API para consultar os últimos calculos rea
 5. Crie um passo a passo para a instalação da aplicação.
 6. **(Opcional)** Disponibilize a aplicação funcionando em algum servidor. Ex.: Heroku.
 
+> Quando terminar, envie pra gente o link do repositório github com orientações para rodar o projeto.
+> Qualquer dúvida, fique a vontade para perguntar.
+
 ### Observações:
 - Priorize código limpo, simples e legível.
 - Tente dentro do possível, documentar o funcionamento do código.
-
-> Quando terminar, envie pra gente o link do repositório github com orientações para rodar o projeto.
-> Qualquer dúvida, fique a vontade para perguntar.
 
 Boa sorte!
