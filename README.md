@@ -13,7 +13,7 @@ Siga as orientações e especificações abaixo e entregue o resultado dentro do
 Para isso, utilize um framework frontend de sua preferência (Next, React, Angular ou Vuejs).
 
 3. Guarde os resultados da calculadora IMC em um banco de dados. 
-Para isso, você vai precisar desenvolver um endpoint de API que receberá os dados do frontend e irá inserir as informações no banco de dados. (De preferência utilizando Ruby on Rails).
+Para isso, você vai precisar desenvolver um endpoint de API que receberá os dados do frontend e irá inserir as informações no banco de dados. (De preferência utilizando Ruby on Rails ou NodeJS).
 
 4. Mostre na interface os últimos cálculos de IMC arquivados no banco de dados.
 Você vai precisar de um endpoint na API para consultar os últimos calculos realizados.
