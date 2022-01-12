@@ -1,11 +1,9 @@
 # Teste prático desenvolvedor fullstack
-#
-# Valor máximo por questão 1 ponto.
-#
-# Possíveis resultados:
-# 0 - Não executou
-# 0.5 - Executou parcialmente
-# 1.0 - Executou completamente
+## Valor máximo por questão 1 ponto.
+## Possíveis resultados:
+## 0 - Não executou
+## 0.5 - Executou parcialmente
+## 1.0 - Executou completamente
 
 Pontos avaliados:
 
