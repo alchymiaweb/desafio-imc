@@ -1,4 +1,4 @@
-# Vem ser ALC Tecnologia
+# Vem ser ALC
 Desafio IMC
 
 ### Teste para desenvolvedor fullstack
