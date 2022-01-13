@@ -8,6 +8,8 @@ projetos que ja trabalhou / maior / o que fez / proj pessoal
 
 linguagens que utiliza
 
+novas linguagens
+
 acompanha algum canal de tecnologia
 
 orientação a objetos
