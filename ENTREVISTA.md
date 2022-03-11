@@ -22,7 +22,7 @@ frameworks back end
 
 testes automatizados
 
-consegue estimatimar tempo para funcionalidades
+consegue estimatimar tempo para tarefas
 
 bancos de dados
 
