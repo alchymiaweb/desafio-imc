@@ -5,90 +5,51 @@
 ### 0.5 - Executou parcialmente
 ### 1.0 - Executou completamente
 
-Pontos avaliados:
+---
+### 1. Desenvolvimento de uma calculadora IMC
+
+|Pontos avaliados:|Resultado:|
+|---|---|
+|1.1 Capacidade de identificar quais informações são necessárias para realizar um cálculo de IMC.||
+|1.2 Implementar fórmula/algoritmo do cálculo.||
+|1.3 Capacidade de entregar dentro do prazo estipulado.||
+|1.4 Capacidade de isolar a regra de negócio entre frontend e backend.||
+|1.5 Documentação do código criado.||
+
+### 2. Formulário para preenchimento dos dados
+|Pontos avaliados:|Resultado:|
+|---|---|
+|2.1 Capacidade de elaborar um formulário e disponibilizar informações de forma responsiva na interface.||
+
+### 3. Enviar formulário para api
+|Pontos avaliados:|Resultado:|
+|---|---|
+|3.1 Capacidade de estabelecer uma comunicação entre a aplicação frontend e backend.||
+
+### 4. Validar informações enviadas pelo formulário
+|Pontos avaliados:|Resultado:|
+|---|---|
+|4.1 Cuidado em verificar a integridade dos dados recebidos pela aplicação backend.||
+
+### 5. Guardar informações no banco de dados
+|Pontos avaliados:|Resultado:|
+|---|---|
+|5.1 Capacidade de criar um banco de dados, tabelas e colunas necessárias.||
+|5.2 Capacidade de inserir informações em bancos de dados.||
+
+### 6. Listar últimas informações guardadas no banco de dados
+|Pontos avaliados:|Resultado:|
+|---|---|
+|6.1 Capacidade de recuperar informações guardadas em bancos de dados.||
+|6.2 Capacidade de transmitir dados do backend para o frontend.||
+|6.3 Capacidade de manipular dados recebidos do backend na interface frontend.||
+
+### 7. Envio do teste
+|Pontos avaliados:|Resultado:|
+|---|---|
+|7.1 Capacidade de trabalhar com Github para versionar o código.||
+|7.2 Capacidade de publicar o teste em um servidor e fazer deploy da aplicação.||
 
 
-1. Desenvolvimento de uma calculadora IMC
-
-1.1 Capacidade de identificar quais informações são necessárias para realizar um cálculo de IMC.
-
-Resultado: 
-
-
-1.2 Implementar fórmula/algoritmo do cálculo.
-
-Resultado:
-
-1.3 Capacidade de entregar dentro do prazo estipulado.
-
-Resultado:
-
-1.4 Capacidade de isolar a regra de negócio entre frontend e backend.
-
-Resultado:
-
-1.5 Documentação do código criado.
-
-Resultado:
-
-
-2. Formulário para preenchimento dos dados.
-
-2.1 Capacidade de elaborar um formulário e disponibilizar informações de forma responsiva na interface.
-
-Resultado:
-
-
-3. Enviar formulário para api.
-
-3.1 Capacidade de estabelecer uma comunicação entre a aplicação frontend e backend.
-
-Resultado:
-
-
-4. Validar informações enviadas pelo formulário.
-
-4.1 Cuidado em verificar a integridade dos dados recebidos pela aplicação backend.
-
-Resultado:
-
-
-5. Guardar informações no banco de dados.
-
-5.1 Capacidade de criar um banco de dados, tabelas e colunas necessárias.
-
-Resultado:
-
-5.2 Capacidade de inserir informações em bancos de dados.
-
-Resultado:
-
-
-6. Listar últimas informações guardadas no banco de dados.
-
-6.1 Capacidade de recuperar informações guardadas em bancos de dados.
-
-Resultado:
-
-6.2 Capacidade de transmitir dados do backend para o frontend.
-
-Resultado:
-
-6.3 Capacidade de manipular dados recebidos do backend na interface frontend.
-
-Resultado:
-
-
-7. Envio do teste.
-
-7.1 Capacidade de trabalhar com Github para versionar o código.
-
-Resultado:
-
-7.2 Capacidade de publicar o teste em um servidor e fazer deploy da aplicação.
-
-Resultado:
-
-
-TOTAL 0/14
+# TOTAL 0/14
 
