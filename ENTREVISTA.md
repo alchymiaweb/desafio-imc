@@ -1,55 +1,55 @@
 ## Tech
 
-últimos empregos
+[ ] últimos empregos
 
-quantos anos de experiencia
+[ ] quantos anos de experiencia
 
-projetos que ja trabalhou / maior / o que fez / proj pessoal
+[ ] projetos que ja trabalhou / maior / o que fez / proj pessoal
 
-linguagens que utiliza
+[ ] linguagens que utiliza
 
-novas linguagens
+[ ] novas linguagens
 
-acompanha algum canal de tecnologia
+[ ] acompanha algum canal de tecnologia
 
-orientação a objetos
+[ ] orientação a objetos
 
-funcional
+[ ] funcional
 
-frameworks front end
+[ ] frameworks front end
 
-frameworks back end
+[ ] frameworks back end
 
-testes automatizados
+[ ] testes automatizados
 
-consegue estimatimar tempo para tarefas
+[ ] consegue estimatimar tempo para tarefas
 
-bancos de dados
+[ ] bancos de dados
 
-versionamento
+[ ] versionamento
 
-entregas continuas CI
+[ ] entregas continuas CI
 
-conhece metodologias agile / scrum / xp / trello
+[ ] conhece metodologias agile / scrum / xp / trello
 
-seo
+[ ] seo
 
-ja trabalhou com sistemas/sites/api rest - graphql
+[ ] ja trabalhou com sistemas/sites/api rest - graphql
 
-hobbies - consegue resolver cubo mágico?
+[ ] hobbies - consegue resolver cubo mágico?
 
-já foi algum evento, meetup, comunidade
+[ ] já foi algum evento, meetup, comunidade
 
 ## Contratação
 
-Disponibilidade
+[ ] Disponibilidade
 
-Remoto / Presencial
+[ ] Remoto / Presencial
 
-CLT / PJ
+[ ] CLT / PJ
 
-pretensão salarial
+[ ] pretensão salarial
 
 ## Teste
 
-Topa fazer o teste?
+[ ] Topa fazer o teste?
